@@ -1,3 +1,8 @@
+//Continue with implementing time travel.
+//Study more documentation
+//Study REACT slides
+//Maybe try to build my own simple project
+
 import { useState } from "react";
 
 function Square({ value, onSquareClick }) {
